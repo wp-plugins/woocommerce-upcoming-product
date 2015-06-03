@@ -27,7 +27,7 @@ Send me your question to my contacts below:
 Mail: [sk.shaikat18(at)gmail(dot)com](mailto:sk.shaikat18@gmail.com)
 Twitter:  [@Sk_Shaikat](https://twitter.com/SK_Shaikat)
 
-P.S: Don't be worry, I always reply. :)
+P.S: Don't worry, I always reply. :)
 
 == Installation ==
 
