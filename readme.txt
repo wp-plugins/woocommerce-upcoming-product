@@ -22,12 +22,10 @@ Manage your upcoming product easily.
 
 = More info =
 
-Send me your question to my contacts below:
+This plugin is coming with some awesome feature on its next update. Any suggestion about features are appreciable.
 
-Mail: [sk.shaikat18(at)gmail(dot)com](mailto:sk.shaikat18@gmail.com)
-Twitter:  [@Sk_Shaikat](https://twitter.com/SK_Shaikat)
-
-P.S: Don't worry, I always reply. :)
+Support: Please navigate to the support tab.
+Author:  [@Sk_Shaikat](https://twitter.com/SK_Shaikat)
 
 == Installation ==
 
@@ -54,4 +52,11 @@ Update will come soon
 
 == Frequently Asked Questions ==
 
-Ask me at -> [sk.shaikat18(at)gmail(dot)com]
+Q: Does it supports all product type?
+A: Yes.
+
+Q: How to remove coming soon text on single product page?
+A: Remove your product price.
+
+Q: Does this plugin support all theme?
+Y: Yes.
