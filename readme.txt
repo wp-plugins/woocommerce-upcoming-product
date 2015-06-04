@@ -25,6 +25,7 @@ Manage your upcoming product easily.
 This plugin is coming with some awesome feature on its next update. Any suggestion about features are appreciable.
 
 Support: Please navigate to the support tab.
+
 Author:  [@Sk_Shaikat](https://twitter.com/SK_Shaikat)
 
 == Installation ==
