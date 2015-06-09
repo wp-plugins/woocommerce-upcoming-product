@@ -1,6 +1,6 @@
 ===  WooCommerce upcoming Products ===
 Contributors: sk.shaikat
-Tags: WooCommerce upcoming product, upcoming product, e-commerce, e-commerce, commerce, WooCommerce, extension, product
+Tags: WooCommerce upcoming product, upcoming product, e-commerce, coming soon product, commerce, WooCommerce, extension, product, new product
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=XWBPHY6KV8SPW&lc=US&item_name=WooCommerce%20Upcoming%20Product&item_number=wup%2ddonation&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 Requires at least: 3.1
 Tested up to: 4.2.2
