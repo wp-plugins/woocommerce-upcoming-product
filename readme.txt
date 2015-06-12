@@ -4,7 +4,7 @@ Tags: WooCommerce upcoming product, upcoming product, e-commerce, coming soon pr
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=XWBPHY6KV8SPW&lc=US&item_name=WooCommerce%20Upcoming%20Product&item_number=wup%2ddonation&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 Requires at least: 3.1
 Tested up to: 4.2.2
-Stable tag: woo-hunk
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -14,7 +14,7 @@ Manage your upcoming product easily in WooCommerce.
 
 Manage your upcoming product easily. 
 
-* Add Upcoming label
+* Manage Upcoming label
 * Remove add to cart button for upcoming product
 * Short by upcoming on shop page
 * Set product available date
@@ -38,11 +38,20 @@ and Enjoy... :)
 
 == Screenshots ==
 
-1. Upcoming product option on product add/edit back-end
-2. Upcoming product single page view
-3. Upcoming product search option on shop page
+1. Upcoming product settings options on back-end
+2. Upcoming product add/edit options on back-end
+3. Upcoming product single page view
+4. Upcoming product search option on shop page
 
 == Changelog ==
+
+= 1.1 =
+* [new] Add Upcoming product settings options on back-end
+* [new] Add option to hide "upcoming" label from title
+* [new] Add option to edit "upcoming" label on title
+* [tweak] Change banner
+* [tweak] Add an extra screenshot for understand settings feature
+* [tweak] Edit readme text
 
 = 1.0 =
 * Initial release
