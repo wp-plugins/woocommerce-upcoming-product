@@ -4,7 +4,7 @@ Tags: WooCommerce upcoming product, upcoming product, e-commerce, coming soon pr
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=XWBPHY6KV8SPW&lc=US&item_name=WooCommerce%20Upcoming%20Product&item_number=wup%2ddonation&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 Requires at least: 3.1
 Tested up to: 4.2.2
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -44,6 +44,12 @@ and Enjoy... :)
 4. Upcoming product search option on shop page
 
 == Changelog ==
+
+= 1.2 =
+* [new] Add option to edit/remove 'Coming Soon' text under product price
+* [fix] Edit some function name to more meaningful
+* [tweak] change a screenshot for understand settings feature
+* [tweak] Edit readme text
 
 = 1.1 =
 * [new] Add Upcoming product settings options on back-end
